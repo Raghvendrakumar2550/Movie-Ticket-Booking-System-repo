@@ -20,8 +20,8 @@ public class User {
 	public int getId() {
 		return id;
 	}
-	public void setId(int id) {
-		this.id = id;
+	public void setId(int string) {
+		this.id = string;
 	}
 	public String getName() {
 		return name;
@@ -47,6 +47,9 @@ public class User {
 	public void setPassword(String password) {
 		this.password = password;
 	}
+	
+	
+	
 
 
 }
