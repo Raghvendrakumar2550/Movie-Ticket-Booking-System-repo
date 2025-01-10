@@ -12,7 +12,7 @@
     <c:if test="${not empty error}">
         <div style="color: red;">${error}</div>
     </c:if>
-    <form action="login" method="post" onsubmit="return loginCheck()">
+    <form action="LoginServlet" method="post" onsubmit="return loginCheck()">
       
 
       <p>
