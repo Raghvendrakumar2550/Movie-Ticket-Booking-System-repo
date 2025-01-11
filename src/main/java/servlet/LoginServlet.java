@@ -40,13 +40,13 @@ public class LoginServlet extends HttpServlet {
             } else {
                 request.setAttribute("error", "Invalid credentials. Please try again.");
                 request.setAttribute("status", "Inactive");
-                request.getRequestDispatcher("login.jsp").forward(request, response);
+                request.getRequestDispatcher("error.jsp").forward(request, response);
             }
         } catch (Exception e) {
             // Log exception and show a friendly error page
             e.printStackTrace();
             request.setAttribute("error", "An unexpected error occurred. Please try again later.");
-            request.getRequestDispatcher("login.jsp").forward(request, response);
+            request.getRequestDispatcher("error.jsp").forward(request, response);
         }
     }
 }  
