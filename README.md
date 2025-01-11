@@ -15,7 +15,7 @@ A Movie ticket booking system project typically involves creating a platform tha
 
 -->View Movies for book them
 
--->Create and Manage Adoption Requests
+-->Book Ticket and Manage Requests
 
 -->Database connection via JDBC
 
