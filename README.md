@@ -1,5 +1,5 @@
-[ONLINE_MOVIE_TICKET[1] (2).pdf](https://github.com/user-attachments/files/18386576/ONLINE_MOVIE_TICKET.1.2.pdf)
-[Final_Pet_Adoption_Presentation.pptx](https://github.com/user-attachments/files/18386562/Final_Pet_Adoption_Presentation.pptx)
+[ONLINE_MOVIE_TICKET.pdf](https://github.com/user-attachments/files/18386576/ONLINE_MOVIE_TICKET.1.2.pdf)
+
 # Online-Movie-Ticket-Booking-System-Project
 A Movie ticket booking system project typically involves creating a platform that allows users to browse available movies, select showtimes, and book tickets online. It may also include features for viewing movie details, tracking booking history, and accessing special offers or promotions.
 
