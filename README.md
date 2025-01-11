@@ -1,4 +1,4 @@
-# Online-Pet-Adoption-Project
+# Online-Movie-Ticket-Booking-Project
 A Movie ticket booking system project typically involves creating a platform that allows users to browse available movies, select showtimes, and book tickets online. It may also include features for viewing movie details, tracking booking history, and accessing special offers or promotions.
 
 # Prerequisites:-
