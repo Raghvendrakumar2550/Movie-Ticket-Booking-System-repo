@@ -6,7 +6,7 @@
          version="3.0">
 
     <!-- Application Display Name -->
-    <display-name>PetAdoptionPlatform</display-name>
+    <display-name>movie-app</display-name>
 
     <!-- Servlet Configuration -->
     <!-- MyServlet Configuration -->
